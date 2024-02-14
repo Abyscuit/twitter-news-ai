@@ -1,0 +1,23 @@
+{
+  "name": "twitter-news-ai",
+  "version": "0.1.0",
+  "description": "Scrape news sites to create twitter posts on an account",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "AI"
+  ],
+  "author": "Abyscuit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.5"
+  }
+}
